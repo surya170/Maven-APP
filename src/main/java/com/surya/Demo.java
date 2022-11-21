@@ -1,5 +1,5 @@
 package com.surya;
 
-public class Demo {
+public class Demo extends Exception {
 
 }
